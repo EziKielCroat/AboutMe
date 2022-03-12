@@ -1,7 +1,8 @@
-Hello, I'm EziKielCroat and as my name suggests I'm from Croatia.
 
-I'm involved in a lot of projects and small ideas that randomly come to mind whilst working.
+## Who am I?
 
-Languages: Python, PHP, JS/CSS/HTML.
+I am EziKielCroat, I'm a high-level programmer and work with Vanilla JS, CSS and HTML.
 
-Small developer
+## About me
+
+For now, my projects include JS/Neural networking and including some low-level backends. PHP, Python and C++ are languages I am still trying to learn or just try read them. I'll be sticking to JS untill I decide what I'd like to do exactly in IT that be front-end developing or working system administrator jobs.
